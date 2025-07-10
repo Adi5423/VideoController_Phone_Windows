@@ -1,0 +1,25 @@
+# Ignore node_modules
+client/node_modules/
+server/node_modules/
+
+# Ignore client build (optional if you copy it manually)
+client/build/
+
+# Ignore system/IDE files
+.DS_Store
+Thumbs.db
+*.log
+*.env
+*.swp
+
+# Ignore coverage/test results
+coverage/
+*.lcov
+
+# Ignore React cache
+client/.eslintcache
+client/.parcel-cache
+
+# VSCode config (optional)
+.vscode/
+.git/
