@@ -105,7 +105,7 @@ node server.js
 
 ## 📄 License
 
-(MIT License)[./LICENSE]. Free to modify and share.
+(MIT License)[LICENSE]. Free to modify and share.
 
 ---
 
