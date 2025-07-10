@@ -105,10 +105,10 @@ node server.js
 
 ## 📄 License
 
-MIT License. Free to modify and share.
+(MIT License)[LICENSE]. Free to modify and share.
 
 ---
 
-## ✨ Credits
-
-Crafted with 🛠️ by \[Your Name].
+Looking forward to build a final .apk for mobile , not web based.
+as for now all clear for widnows side , just a normal .bat run and test on same wifi network as by scanning the qr.
+.apk would make it more better(no web interaction).
