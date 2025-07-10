@@ -1,6 +1,6 @@
 # 🌐 VideoControl
 
-> Control your laptop video player from your phone over Wi-Fi
+> Control your laptop youtube video player from your phone over same Wi-Fi
 
 This is a simple local remote control app using **Node.js**, **Socket.IO**, and a **React-based UI**. It lets you control keyboard actions (Play/Pause, Forward, Backward, Fullscreen) of your laptop's media player from your mobile phone.
 
